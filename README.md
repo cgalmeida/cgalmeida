@@ -3,7 +3,7 @@
 
 Hey 👋🏻,
 
-I am a Software Engineer from Brasil . I am interested in, write about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs and NodeJS.
+I am a Software Engineer from Brasil. 
 
 
 ## 📬 Get in touch
