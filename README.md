@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 Hey 👋🏻,
@@ -6,9 +6,21 @@ Hey 👋🏻,
 I am a Software Engineer from Brasil. 
 
 
+
+
+<h1 align="center">### Hi there 👋, I'm Carolina Almeida</h1>
+
+<h4 align="center"Hey 👋🏻,
+
+I am a Software Engineer from Brasil. ✨</h4>
+
+<!--align="center"
+<p>-->
 ## 📬 Get in touch
 
 - :link: [Linkedin](https://www.linkedin.com/in/anacalbuquerque/)
+
+
 
 <!--
 **cgalmeida/cgalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
