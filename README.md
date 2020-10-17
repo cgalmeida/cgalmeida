@@ -5,6 +5,11 @@ Hey 👋🏻,
 
 I am a Software Engineer from Brasil . I am interested in, write about and develop (open source) software solutions for and with JavaScript, TypeScript, ReactJs and NodeJS.
 
+
+## 📬 Get in touch
+
+- :link: [Linkedin](https://www.linkedin.com/in/anacalbuquerque/)
+
 <!--
 **cgalmeida/cgalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
