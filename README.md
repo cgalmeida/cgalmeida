@@ -1,13 +1,4 @@
 
-
-
-Hey 👋🏻,
-
-I am a Software Engineer from Brasil. 
-
-
-
-
 <h1 align="center">Hi there 👋, I'm Carolina Almeida</h1>
 
 <h4 align="center"Hey 👋🏻,
