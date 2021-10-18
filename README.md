@@ -46,6 +46,9 @@
 <code>  <!-- tensorflow-->
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
 </code>
+<code>  <!-- nodejs-->
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" alt="nodejs" width="40" height="40" />
+</code>
 <!--a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a-->
 <!--a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a-->
@@ -57,7 +60,8 @@
 ✔ **[MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
 ✔ **[DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
 ✔ **[ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
-✔ **[.NET REST Api](https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'><br>
+✔ **[.NET REST API](https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'><br>
+✔ **[Currency Conversion API](https://github.com/cgalmeida/challenge-bravo)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> <img width='18px' src='https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> <img width='18px' src='https://www.vectorlogo.zone/logos/redis/redis-icon.svg'><br>
 <!--✔ **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)** <br>
 ✔ **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)** <br> -->
 
