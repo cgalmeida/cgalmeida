@@ -57,9 +57,10 @@
 ✔ **[MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
 ✔ **[DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
 ✔ **[ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
-<!--✔ **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)** <br>
-✔ **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)** <br>
+✔ **[.NET REST Api](https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'><br>
+<!--✔ **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)** <br>
 ✔ **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)** <br> -->
+
 <br>
 <br>
 <p align="center">
