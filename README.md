@@ -2,9 +2,18 @@
 
 <h4 align="center" Hey 👋🏻, I am a Software Engineer from Brasil. ✨</h4>
 
+<code align="center"> <!-- Python-->
+<img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
+</code>
+<!--code align="center"> 
+<img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
+</code>
+<code align="center"> 
+<img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
+</code-->
 <!--align="center"
 <p>-->
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Get in touch
+## <!--img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"--> 🖐Get in touch
 :rocket: [Find me On LinkedIn!](https://www.linkedin.com/in/anacalbuquerque/)
 <br>
 <br>
@@ -12,41 +21,41 @@
 <h2>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> Skills
 </h2>
-
-<code> <!-- Python-->
+<!--fragment align="center"-->
+<code align="center"> <!-- Python-->
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
 </code>
-<code>  <!-- ReactJS-->
+<code align="center">  <!-- ReactJS-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 </code>
-<code>  <!-- JS-->
+<code align="center">  <!-- JS-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 </code>
-<code>  <!-- TypeScript-->
+<code align="center">  <!-- TypeScript-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
 </code>
-<code>  <!-- scikit-->
+<code align="center">  <!-- scikit-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
 </code>
-<code>  <!-- sqlite-->
+<code align="center">  <!-- sqlite-->
  <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
 </code>
-<code>  <!-- pytorch-->
+<code align="center">  <!-- pytorch-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
 </code>
-<code>  <!-- css-->
+<code align="center">  <!-- css-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
 </code>
-<code>  <!-- html-->
+<code align="center">  <!-- html-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
 </code>
-<code>  <!-- csharp-->
+<code align="center">  <!-- csharp-->
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
 </code>
-<code>  <!-- tensorflow-->
+<code align="center">  <!-- tensorflow-->
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
 </code>
-<code>  <!-- nodejs-->
+<code align="center">  <!-- nodejs-->
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" alt="nodejs" width="40" height="40" />
 </code>
 <!--a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a-->
