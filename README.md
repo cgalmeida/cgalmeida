@@ -4,9 +4,8 @@
 
 <code align="center"> <!-- Python-->
 <img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
-</code>
-<code align="center"> 
 <img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png'> 
+<img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png'> 
 </code>
 <!--code align="center"> 
 <img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
