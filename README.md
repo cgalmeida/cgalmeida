@@ -1,65 +1,61 @@
 <h1 align="center">Hi there 👋, I'm Carolina Almeida</h1>
 
-<h4 align="center" Hey 👋🏻, I am a Software Engineer from Brasil. ✨</h4>
+<!--h4 align="center"> I am a Software Engineer from Brasil. ✨</h4-->
 
-<img align="center" width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
-<img align="center" width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png'> 
-<img align="center" width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png'> 
-<!--code align="center"> 
-<img width ='96px' src ='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'> 
-</code-->
-<!--align="center"
-<p>-->
-## <!--img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"--> 🖐Get in touch
-:rocket: [Find me On LinkedIn!](https://www.linkedin.com/in/anacalbuquerque/)
+<p align="center">
+ <img width ='96px' src='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png'>
+ <img width ='96px' src='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png'>
+ <img width ='96px' src='https://github.com/cgalmeida/sample.images/blob/main/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png'>
+</p>
+
+<h3> 👋 &nbsp;About </h3>
+
+<ul>
+  <li>Software Engineer</li>
+  <li>Master of Biomedical Engineering </li>
+  <li>PhD Student</li>
+</ul>  
+
+
+<h3>🖐Get in touch </h3>
+
+[![Linkedin: anacalbuquerque](https://img.shields.io/badge/-anacalbuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacalbuquerque/)](https://www.linkedin.com/in/anacalbuquerque/)
+![Medium Badge](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)
+[![GitHub Carolina Almeida]( https://img.shields.io/github/followers/cgalmeida?label=follow&style=social)](https://github.com/cgalmeida)
 <br>
 <br>
 
-<h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px /> Skills
-</h2>
-<!--fragment align="center"-->
-<code align="center"> <!-- Python-->
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> 
-</code>
-<code align="center">  <!-- ReactJS-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-</code>
-<code align="center">  <!-- JS-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
-</code>
-<code align="center">  <!-- TypeScript-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> 
-</code>
-<code align="center">  <!-- scikit-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
-</code>
-<code align="center">  <!-- sqlite-->
- <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
-</code>
-<code align="center">  <!-- pytorch-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
-</code>
-<code align="center">  <!-- css-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
-</code>
-<code align="center">  <!-- html-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-</code>
-<code align="center">  <!-- csharp-->
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
-</code>
-<code align="center">  <!-- tensorflow-->
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-</code>
-<code align="center">  <!-- nodejs-->
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" alt="nodejs" width="40" height="40" />
-</code>
-<!--a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a-->
-<!--a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a-->
-<br>
-<br>
+<h3> 🚀 &nbsp;Skills </h3>
+
+**Aplicações e Dados**
+
+  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+  ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Dev Tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+<br/>
 
 ### ⚡ Some projects I have worked on:
 
@@ -71,43 +67,9 @@
 <!--✔ **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)** <br>
 ✔ **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)** <br> -->
 
-<br>
-<br>
-<p align="center">
-    <a href="https://github.com/cgalmeida">
-        <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api?username=cgalmeida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-        <img height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cgalmeida&layout=compact&langs_count=8&theme=algolia" />
-    </a>
-</p>
-<br>
-<br>
-<!--------------------------CONNECT WITH ME--------------------------------------------->
-<!--h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me  </h2>
-<a href = 'https://www.linkedin.com/in/anacalbuquerque/'> 
- <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a-->
-        <!--a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a-->
 
-<br>
-<br>
-<br>
+<a href="https://github.com/cgalmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cgalmeida&theme=dracula&show_icons=true" />
+</a>
 
-<!--
-**cgalmeida/cgalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -:chart_with_upwards_trend:  My GitHub Stats: 
--->
+<br/>
