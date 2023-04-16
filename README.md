@@ -22,10 +22,7 @@
 
 <p>
 
-Estudando/trabalhando na **nome do lugar**<br/>
-
-Eu sou desenvolvedor **sua área**.
-
+Software Engineer<br/>
 
 </p>
 <hr>
@@ -46,29 +43,26 @@ Eu sou desenvolvedor **sua área**.
 <br-->
 ### ⚡ Some types projects I have worked on:
 
-* #### ♦ **Software Engineer** 
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+#### ♦ **Software Engineer** 
+Linguagens & Tecnologias: `Python`, `C#`, `C`, `C++`, `JavaScript`, `Redis`, `GoLang`, `Docker`, `SQL`\
+Projetos em destaque: [.NET REST API](https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker), [Currency Conversion API](https://github.com/cgalmeida/challenge-bravo)
 <br/>
 
-
-
-#### ♦️ **Full Stack Developer**\
-Linguagens & Tecnologias: `JavaScript`, `Node`, `ReactJS` `React Native` `NextJS` \
-Projetos em destaque: [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app), [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App), [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)
+#### ♦️ **Full Stack Developer**
+Linguagens & Tecnologias: `JavaScript`, `Node`, `ReactJS` `React Native` `NextJS`, `Typescript` \
+Projetos em destaque: [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App), [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app), [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)
 <br/>
 
-
-#### ♦️ **DevOps** \
+#### ♦️ **DevOps** 
 [**IaC and DSC**](https://nubank.com.br/) \
-Linguagens & Tecnologias: `Terraform`, `Yaml`, `Asible` \
+Linguagens & Tecnologias: `Terraform`, `Yaml`, `Asible` `docker` `kubernetes` `Git` `bitbucket`\
 Projetos em destaque: [IaC and Configuration Management](https://github.com/cgalmeida/DevOps.IaC.ConfigMgmt)
 <br/>
 <br/>
 
-[**CI/CD**](https://nubank.com.br/) \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+[**CI/CD**](https://nubank.com.br/) 
+Linguagens & Tecnologias: `Terraform`, `Yaml`, `docker`, `kubernetes` `Git` \
+Projetos em destaque: [CI|CD]()
 <br/>
 <br/>
 
