@@ -24,7 +24,36 @@
 [![GitHub Carolina Almeida]( https://img.shields.io/github/followers/cgalmeida?label=follow&style=social)](https://github.com/cgalmeida)
 <br>
 <br>
+### ⚡ Some types projects I have worked on:
 
+**Software Engineer** \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
+
+
+**Full Stack Developer**\
+Linguagens & Tecnologias: `JavaScript`, `Node`, `ReactJS` `React Native` `NextJS` \
+Projetos em destaque: [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app), [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App), [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)
+<br/>
+
+**DevOps** \
+[**IaC and DSC**](https://nubank.com.br/) \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
+[**CI/CD**](https://nubank.com.br/) \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 <h3> 🚀 &nbsp;Skills </h3>
 
 **Aplicações e Dados**
@@ -57,35 +86,7 @@
 
 <br/>
 
-### ⚡ Some projects I have worked on:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ✔ **[MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
 ✔ **[DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App)** <img width='18px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <br>
