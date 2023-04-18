@@ -41,7 +41,7 @@ Software Engineer<br/>
 [![GitHub Carolina Almeida]( https://img.shields.io/github/followers/cgalmeida?label=follow&style=social)](https://github.com/cgalmeida)
 <br>
 <br-->
-### ⚡ Some types projects I have worked on:
+### ⚡ Some types of projects I have worked on:
 
 #### ♦ **Software Engineer** 
 Linguagens & Tecnologias: `Python`, `C#`, `C`, `C++`, `JavaScript`, `Redis`, `GoLang`, `Docker`, `SQL`\
