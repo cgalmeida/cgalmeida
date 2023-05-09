@@ -56,7 +56,7 @@ Projetos em destaque: [DT Money - ReactJS App](https://github.com/cgalmeida/DTMo
 #### ♦️ **DevOps** 
 [**IaC and DSC**](https://nubank.com.br/) \
 Linguagens & Tecnologias: `Terraform`, `Yaml`, `Asible` `docker` `kubernetes` `Git` `bitbucket`\
-Projetos em destaque: [IaC and Configuration Management](https://github.com/cgalmeida/DevOps.IaC.ConfigMgmt)
+Projetos em destaque: [IaC and Configuration Management](https://github.com/cgalmeida/DevOps.IaC.ConfigMgmt), [Azure DevOps Management w/ Terraform](https://github.com/cgalmeida/AzureDevops.Mgmt)
 <br/>
 <br/>
 
