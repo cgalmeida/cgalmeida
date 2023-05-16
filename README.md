@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Carolina Almeida</h1>
+<h1 align="center">👋 Ana Carolina Almeida</h1>
 
 <!--h4 align="center"> I am a Software Engineer from Brasil. ✨</h4-->
 
