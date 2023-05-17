@@ -47,26 +47,33 @@ Software Engineer<br/>
 Linguagens & Tecnologias: ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python), `C#`, `C`, `C++`, `JavaScript`, `Redis`, `GoLang`, `Docker`, `SQL`\
 Projetos em destaque: [.NET REST API](https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker), [Currency Conversion API](https://github.com/cgalmeida/challenge-bravo)
 <br/>
-<br/>
+
 
 #### ♦️ **Full Stack Developer**
 Linguagens & Tecnologias: \
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)  ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)   ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react) ![NextJS](https://img.shields.io/badge/Next.js-333333?style=flat&logo=Next.js) ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) \
-Projetos em destaque: [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App), [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app), [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)
-<br/>
-<br/>
-
-#### ♦️ **DevOps** 
-[**IaC and DSC**](https://nubank.com.br/) \
-Linguagens & Tecnologias: <br/>
-![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform), ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes) ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git) ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws)\
-Projetos em destaque: [IaC and Configuration Management](https://github.com/cgalmeida/DevOps.IaC.ConfigMgmt), [Azure DevOps Management w/ Terraform](https://github.com/cgalmeida/AzureDevops.Mgmt)
-<br/>
+Projetos em destaque: 
+* [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App)
+* [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app)
+*  [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)
 <br/>
 
-[**CI/CD**](https://nubank.com.br/) 
-Linguagens & Tecnologias: ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform), ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes) ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure)\
-Projetos em destaque: [CI|CD]()
+
+#### ♦️ **DevOps**
+Linguagens & Tecnologias: 
+![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform), ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes) ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git) ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws)
+
+[**IaC and DSC**](https://nubank.com.br/) 
+
+Projetos em destaque: 
+* [IaC and Configuration Management](https://github.com/cgalmeida/DevOps.IaC.ConfigMgmt) ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) 
+* [Azure DevOps Management w/ Terraform](https://github.com/cgalmeida/AzureDevops.Mgmt) ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure)
+<br/>
+
+*[**CI/CD**]() 
+
+Projetos em destaque: 
+* [CI|CD]() ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) 
 <br/>
 <br/>
 
