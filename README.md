@@ -43,24 +43,27 @@ Software Engineer<br/>
 <br-->
 ### ⚡ Some types of projects I have worked on:
 
-#### ♦ **Software Engineer** 
-Linguagens & Tecnologias: ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python), `C#`, `C`, `C++`, `JavaScript`, `Redis`, `GoLang`, `Docker`, `SQL`\
-Projetos em destaque: [.NET REST API](https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker), [Currency Conversion API](https://github.com/cgalmeida/challenge-bravo)
+### ♦ **Backend** 
+Linguagens & Tecnologias: <br/>
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python) ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp) ![C](https://img.shields.io/badge/c-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/c%2B%2B-333333?style=flat&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![Golang](https://img.shields.io/badge/Go-333333?style=flat&logo=go) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![SQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql) \
+Projetos em destaque: 
+* [.NET REST API]() ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![SQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)  <!--(https://github.com/cgalmeida/REST-API-using-.NET-Core-and-Docker) -->
+* [Currency Conversion API]() ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)  ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![SQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) <!--(https://github.com/cgalmeida/challenge-bravo)-->
 <br/>
 
 
-#### ♦️ **Full Stack Developer**
+### ♦️ **Full Stack**
 Linguagens & Tecnologias: \
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=Node.js)  ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)   ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react) ![NextJS](https://img.shields.io/badge/Next.js-333333?style=flat&logo=Next.js) ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) \
 Projetos em destaque: 
-* [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App)
-* [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app)
-*  [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native)
+* [DT Money - ReactJS App](https://github.com/cgalmeida/DTMoney-ReactJS-App) ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![MirageJS](https://img.shields.io/badge/-MirageJS-20232A?style=flat&logo=mirage) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure)
+* [MySkills - ReactNative App](https://github.com/cgalmeida/myskills-app) ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react) ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+*  [ToDo - ReactNative App](https://github.com/cgalmeida/todo-app-react-native) ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react) ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 <br/>
 
 
-#### ♦️ **DevOps**
-Linguagens & Tecnologias: 
+### ♦️ **DevOps**
+Linguagens & Tecnologias: <br/>
 ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform), ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat&logo=ansible) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes) ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git) ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws)
 
 [**IaC and DSC**](https://nubank.com.br/) 
