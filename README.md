@@ -73,12 +73,9 @@ Linguagens & Tecnologias: <br/>
 Projetos em destaque: 
 * [IaC and Configuration Management](https://github.com/cgalmeida/DevOps.IaC.ConfigMgmt) ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) 
 * [Azure DevOps Management w/ Terraform](https://github.com/cgalmeida/AzureDevops.Mgmt) ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure)
-<br/>
-
-*[**CI/CD**]() 
-
-Projetos em destaque: 
-* [CI|CD]() ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) 
+* [Terraform.Sandbox](https://github.com/cgalmeida/DevOps.Terraform.Sandbox) ![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat&logo=terraform) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws)
+* [DevOps|Kubernetes](https://github.com/cgalmeida/DevOps.Kubernetes) ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes)
+* [CI|CD]() ![Yaml](https://img.shields.io/badge/Yaml-333333?style=flat&logo=yaml) ![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 <br/>
 <br/>
 
