@@ -12,7 +12,7 @@
 
 <!--img align='right' src="https://github-readme-stats.vercel.app/api?username=cgalmeida&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"-->
 
- <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api?username=cgalmeida&theme=dracula&show_icons=true&cache_seconds=2300" />
+ <!--img align='right' height="180em" src="https://github-readme-stats.vercel.app/api?username=cgalmeida&theme=dracula&show_icons=true&cache_seconds=2300" /-->
 
 [![Linkedin: anacalbuquerque](https://img.shields.io/badge/-anacalbuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacalbuquerque/)](https://www.linkedin.com/in/anacalbuquerque/)
 ![Medium Badge](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)
